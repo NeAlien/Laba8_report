@@ -20,6 +20,7 @@ logs
 ps -a 
 -p 1234:3000 (HOST:CONTAINER)
 -v 
+-e - установка среды
 ```
 
 ## Пример images
